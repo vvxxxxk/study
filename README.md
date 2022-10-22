@@ -1,4 +1,1 @@
-- vvxxxxk
-
 # Study
-## CPP
